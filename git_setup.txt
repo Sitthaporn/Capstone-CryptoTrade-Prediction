@@ -5,7 +5,7 @@ git pull origin main
 git status
 git add .
 git commit -m "update code"
-!git push origin main
+git push origin main
 
 //ADD/FEATURE
 git checkout -b feature/ใส่ชื่ออะไรก็ได้
